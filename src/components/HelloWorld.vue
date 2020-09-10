@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-      HelloWorld! 自动更新！---重装了!
+      HelloWorld! 自动更新！---重装了!现在可以自动部署到服务器了
   </div>
 </template>
 
