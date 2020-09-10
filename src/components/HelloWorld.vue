@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-      HelloWorld! 自动更新！
+      HelloWorld! 自动更新！---
   </div>
 </template>
 
