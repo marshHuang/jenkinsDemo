@@ -1,8 +1,8 @@
 <template>
   <div class="hello">
-      HelloWorld! 自动更新！---重装了!现在可以自动部署到服务器了！——-！！！！1111更新了！－－－－ 再次更新
+      HelloWorld! 自动更新！---重装了!现在可以自动部署到服务器了！——-！！！！1111更新了！－－－－ 再次更新1
     <div class="download">
-      <a href="./music.php" download="aa.mp3">点击下载--</a>
+      <a href="../assets/music.mp3" download="music.mp3">点击下载</a>
     </div>
   </div>
 </template>
