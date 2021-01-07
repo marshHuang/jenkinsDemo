@@ -2,7 +2,7 @@
   <div class="hello">
       HelloWorld! 自动更新！---重装了!现在可以自动部署到服务器了！——-！！！！1111更新了！－－－－ 再次更新
     <div class="download">
-      <a href="https://oss.hdyl.net.cn/files/541347453287329792.mp3" download="aa.mp3">点击下载</a>
+      <a href="./music.php" download="aa.mp3">点击下载--</a>
     </div>
   </div>
 </template>
