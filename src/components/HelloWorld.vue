@@ -1,8 +1,8 @@
 <template>
   <div class="hello">
-      HelloWorld! 自动更新！---重装了!现在可以自动部署到服务器了！——-！！！！1111更新了！－－－－ 再次更新3
+      HelloWorld! 自动更新！---重装了!现在可以自动部署到服务器了！——-！！！！1111更新了！－－－－ 再次更新4
     <div class="download">
-      <a href="https://oss.hdyl.net.cn/sdlm_mp/activity/testH5/test.zip" download="test.zip">点击下载</a>
+      <a href="https://oss.hdyl.net.cn/sdlm_mp/activity/testH5/test.rar" download="test.zip">点击下载</a>
     </div>
   </div>
 </template>
